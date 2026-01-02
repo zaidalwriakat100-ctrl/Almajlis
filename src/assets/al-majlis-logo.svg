@@ -1,0 +1,31 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (Optional, usually transparent for logos but kept for the asset file) -->
+  <!-- <rect x="0" y="0" width="512" height="512" fill="none"/> -->
+
+  <!-- Ground shadow -->
+  <ellipse cx="256" cy="380" rx="170" ry="20" fill="#E1E4E6" opacity="0.6"/>
+
+  <!-- Building base -->
+  <rect x="96" y="230" width="320" height="120" rx="8" ry="8" fill="#FBF7EE" stroke="#D0D4D6" stroke-width="3"/>
+
+  <!-- Façade grid (windows / data) -->
+  <g fill="#E1E4E6">
+    <!-- Row 1 -->
+    <rect x="122" y="250" width="48" height="26" rx="4" />
+    <rect x="188" y="250" width="48" height="26" rx="4" />
+    <rect x="254" y="250" width="48" height="26" rx="4" />
+    <rect x="320" y="250" width="48" height="26" rx="4" />
+    <!-- Row 2 -->
+    <rect x="122" y="286" width="48" height="26" rx="4" />
+    <rect x="188" y="286" width="48" height="26" rx="4" />
+    <rect x="254" y="286" width="48" height="26" rx="4" />
+    <rect x="320" y="286" width="48" height="26" rx="4" />
+  </g>
+
+  <!-- Dome: SOLID, no inner lines, no dot -->
+  <path d="M160 230 C160 170 352 170 352 230 Z"
+        fill="#3C6F68" stroke="#21504A" stroke-width="3"/>
+
+  <!-- Horizontal base line under building -->
+  <line x1="120" y1="354" x2="392" y2="354" stroke="#D0D4D6" stroke-width="3"/>
+</svg>

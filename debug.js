@@ -1,0 +1,1 @@
+console.log('DEBUG SCRIPT RUNNING FROM HEAD');

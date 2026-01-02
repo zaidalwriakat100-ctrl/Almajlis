@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ordinary_1",
+    "name": "الدورة العادية الأولى",
+    "isCurrent": false,
+    "blocs": [
+      {
+        "id": "bloc_charter_1",
+        "name": "كتلة حزب الميثاق الوطني",
+        "totalSeats": 35,
+        "leadParty": "حزب الميثاق الوطني",
+        "color": "#1e3a8a",
+        "description": "كتلة الدورة الأولى لكتلة حزب الميثاق الوطني."
+      },
+      {
+        "id": "bloc_erada_national_1",
+        "name": "كتلة حزب إرادة والوطني الإسلامي",
+        "totalSeats": 18,
+        "leadParty": "تحالف إرادة والوطني الإسلامي",
+        "color": "#0891b2",
+        "description": "كتلة الدورة الأولى لكتلة حزب إرادة والوطني الإسلامي."
+      },
+      {
+        "id": "bloc_centrist_1",
+        "name": "كتلة اتحاد الأحزاب الوسطية",
+        "totalSeats": 18,
+        "leadParty": "اتحاد الأحزاب الوسطية",
+        "color": "#7c2d12",
+        "description": "كتلة الدورة الأولى لكتلة اتحاد الأحزاب الوسطية."
+      },
+      {
+        "id": "bloc_azm_1",
+        "name": "كتلة حزب عزم",
+        "totalSeats": 19,
+        "leadParty": "حزب عزم",
+        "color": "#4338ca",
+        "description": "كتلة الدورة الأولى لكتلة حزب عزم."
+      },
+      {
+        "id": "bloc_iaf_1",
+        "name": "كتلة حزب جبهة العمل الإسلامي",
+        "totalSeats": 31,
+        "leadParty": "حزب جبهة العمل الإسلامي",
+        "color": "#007A3D",
+        "description": "كتلة الدورة الأولى لكتلة حزب جبهة العمل الإسلامي."
+      },
+      {
+        "id": "bloc_taqadom_1",
+        "name": "كتلة تقدم النيابية",
+        "totalSeats": 15,
+        "leadParty": "حزب تقدم",
+        "color": "#d97706",
+        "description": "كتلة الدورة الأولى لكتلة تقدم النيابية."
+      }
+    ]
+  },
+  {
+    "id": "ordinary_2",
+    "name": "الدورة العادية الثانية",
+    "isCurrent": true,
+    "blocs": [
+      {
+        "id": "bloc_iaf_2",
+        "name": "كتلة جبهة العمل الإسلامي",
+        "totalSeats": 31,
+        "leadParty": "حزب جبهة العمل الإسلامي",
+        "color": "#007A3D",
+        "description": "تعد أكبر كتل المجلس العشرين بإجمالي 31 مقعداً."
+      },
+      {
+        "id": "bloc_charter_2",
+        "name": "كتلة حزب الميثاق الوطني",
+        "totalSeats": 35,
+        "leadParty": "حزب الميثاق الوطني",
+        "color": "#1e3a8a",
+        "description": "كتلة برلمانية وازنة تضم 35 نائباً."
+      },
+      {
+        "id": "bloc_centrist_islamic_2",
+        "name": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "totalSeats": 26,
+        "leadParty": "ائتلاف حزبي",
+        "color": "#7c2d12",
+        "description": "ائتلاف برماني يضم 26 نائباً."
+      },
+      {
+        "id": "bloc_mubadara_2",
+        "name": "كتلة حزب مبادرة النيابية",
+        "totalSeats": 23,
+        "leadParty": "حزب مبادرة",
+        "color": "#0891b2",
+        "description": "كتلة نيابية تمثل حزب مبادرة."
+      },
+      {
+        "id": "bloc_azm_2",
+        "name": "كتلة حزب عزم",
+        "totalSeats": 20,
+        "leadParty": "حزب عزم",
+        "color": "#4338ca",
+        "description": "كتلة حزبية تضم 20 نائباً."
+      },
+      {
+        "id": "bloc_independent_2",
+        "name": "النواب المستقلون",
+        "totalSeats": 3,
+        "leadParty": "مستقل",
+        "color": "#6b7280",
+        "description": "نواب مستقلون."
+      }
+    ]
+  }
+]

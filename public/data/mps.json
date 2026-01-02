@@ -1,0 +1,4078 @@
+[
+  {
+    "id": "mp_001",
+    "fullName": "إبراهيم سلامه محمود الصرايره",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "ibrahim.sarairah@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "اللجنة الإدارية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية",
+          "اللجنة الإدارية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_001.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_002",
+    "fullName": "إبراهيم صالح هلال الحميدي",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Ibrahim.alhmaidi@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "اللجنة الإدارية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة التربية والتعليم"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_002.jpg"
+  },
+  {
+    "id": "mp_003",
+    "fullName": "إبراهيم صقر سليمان القرالة",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "الكرك",
+    "email": "Ibrahim.Alqaralleh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان",
+          "لجنة التربية والتعليم"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_003.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_004",
+    "fullName": "إبراهيم فنخير سالم الجبور",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "بدو الوسط",
+    "email": "ibrahim.aljboor@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "اللجنة القانونية",
+          "اللجنة المالية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان",
+          "لجنة التربية والتعليم"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_004.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_005",
+    "fullName": "إبراهيم يوسف صالح الطراونة",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "الكرك",
+    "email": "ibrahim.altarawneh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "اللجنة المالية",
+          "لجنة فلسطين"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة المالية",
+          "لجنة الشؤون الخارجية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_005.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_006",
+    "fullName": "أحمد إبراهيم سلامه الهميسات",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Ahmad.hamisat@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة التوجيه الوطني والإعلام",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "officePhone": "5635200",
+    "photoUrl": "/images/mps/mp_006.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_007",
+    "fullName": "أحمد إبراهيم عبدالعزيز القطاونة",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Ahmed.Alqatawneh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      }
+    ],
+    "officePhone": "5635158",
+    "photoUrl": "/images/mps/mp_007.jpg",
+    "district": ""
+  },
+  {
+    "id": "mp_008",
+    "fullName": "أحمد جميل عبدالقادر عشا",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Ahmad.Asha@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة البيئة والمناخ"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الصحة والغذاء"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_008.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_009",
+    "fullName": "أحمد حسن موسى الشديفات",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "المفرق",
+    "email": "Ahmad.alshdeifat@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_009.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_010",
+    "fullName": "أحمد حمدان ندى العليمات",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "المفرق",
+    "email": "Ahmad.oleimat@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "اللجنة الإدارية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_010.jpg"
+  },
+  {
+    "id": "mp_011",
+    "fullName": "أحمد سليمان عوض الرقب",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Ahmed.alrekp@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      }
+    ],
+    "officePhone": "5635200",
+    "photoUrl": "/images/mps/mp_011.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_012",
+    "fullName": "أحمد عبدالعزيز أحمد السراحنة",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "البلقاء",
+    "email": "Ahmad.Alsarahneh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الصحة والغذاء",
+          "لجنة فلسطين"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الصحة والغذاء",
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "officePhone": "5635149",
+    "photoUrl": "/images/mps/mp_012.jpg"
+  },
+  {
+    "id": "mp_013",
+    "fullName": "أحمد محمد علي الصفدي",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Ahmed.alsafadi@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "officePhone": "5635113",
+    "photoUrl": "/images/mps/mp_013.jpg"
+  },
+  {
+    "id": "mp_014",
+    "fullName": "أروى علي حمد الزبون",
+    "aliases": [
+      "أروى الحجايا",
+      "اروى الحجايا"
+    ],
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "بدو الجنوب",
+    "email": "arwa.alzboun@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة التوجيه الوطني والإعلام",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_014.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_015",
+    "fullName": "إسلام لويفي عيدالاتيم العزازمة",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "الكرك",
+    "email": "islam.azazmeh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_015.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_016",
+    "fullName": "إسماعيل راشد عبود المشاقبة",
+    "party": "مستقل",
+    "parliamentaryBloc": "النواب المستقلون",
+    "winType": "local",
+    "governorate": "المفرق",
+    "email": "Ismail.Almashaqbeh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "النواب المستقلون",
+        "committees": [
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "committees": [
+          "لجنة التوجيه الوطني والإعلام",
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "officePhone": "5635186",
+    "photoUrl": "/images/mps/mp_016.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_017",
+    "fullName": "آمال ضيف الله سليم الشقران",
+    "aliases": [
+      "آمال البشير",
+      "امال البشير"
+    ],
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "Amal.Albashir@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الصحة والغذاء",
+          "لجنة الخدمات العامة والنقل",
+          "لجنة الرد على خطاب العرش"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      }
+    ],
+    "officePhone": "5635218",
+    "photoUrl": "/images/mps/mp_017.jpg"
+  },
+  {
+    "id": "mp_018",
+    "fullName": "اندريه مراد محمود عبدالجليل حواري",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Andre.Alhawari@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة المرأة وشؤون الأسرة",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      }
+    ],
+    "officePhone": "5635100 - 1001",
+    "photoUrl": "/images/mps/mp_018.jpg"
+  },
+  {
+    "id": "mp_019",
+    "fullName": "آيات محمد أحمد بني عيسى",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "Ayat.baniissa@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة الاقتصاد والاستثمار"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_019.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_020",
+    "fullName": "إياد يعقوب سعيد جبرين",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "Eyad.Jebreen@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الزراعة والمياه"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة السياحة والآثار"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_020.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_021",
+    "fullName": "آية الله محمد علي الفريحات",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "عجلون",
+    "email": "Ayatollah.freihat@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "اللجنة الإدارية",
+          "اللجنة القانونية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "committees": [
+          "اللجنة القانونية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_021.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_022",
+    "fullName": "إيمان محمد أمين إسحق العباسي",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Iman.abbasi@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الشؤون الخارجية",
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_022.jpg",
+    "district": "الدائرة الثالثة"
+  },
+  {
+    "id": "mp_023",
+    "fullName": "أيمن توفيق يوسف أبو الرب",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "Ayman.abutub@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الصحة والغذاء",
+          "لجنة فلسطين"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_023.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_024",
+    "fullName": "أيمن عودة محمد البدادوة",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "ayman.albadadweh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الخدمات العامة والنقل",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_024.jpg"
+  },
+  {
+    "id": "mp_025",
+    "fullName": "أيمن محمود عبدالله أبو هنية",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Ayman.abuhaneyyeh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_025.jpg"
+  },
+  {
+    "id": "mp_026",
+    "fullName": "باسم مرشد صالح الروابدة",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Basem.alrawabdeh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الزراعة والمياه"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان",
+          "لجنة الزراعة والمياه"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_026.jpg"
+  },
+  {
+    "id": "mp_027",
+    "fullName": "بدر عواد رجا الحراحشة",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "جرش",
+    "email": "bader.alharahsheh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الشؤون الخارجية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة الشؤون الخارجية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_027.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_028",
+    "fullName": "بكر محمد عبدالغني الحيصة",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Baker.alhesa@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الشباب والرياضة والثقافة",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشؤون الخارجية",
+          "لجنة الريف والبادية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_028.jpg"
+  },
+  {
+    "id": "mp_029",
+    "fullName": "بيان فخري عيسى المحسيري",
+    "aliases": [
+      "بيان المحسيري",
+      "بيان فخري عبدالله"
+    ],
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Bayan.Almahseri@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة المرأة وشؤون الأسرة",
+          "اللجنة القانونية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_029.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_030",
+    "fullName": "تمارا يعقوب عادل ناصرالدين",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "tamara.naseraldeen@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة الشؤون الخارجية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشؤون الخارجية",
+          "لجنة التربية والتعليم"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_030.jpg"
+  },
+  {
+    "id": "mp_031",
+    "fullName": "تيسير سالم داود أبو عرابي العدوان",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Tayseer.abuorabi@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الخدمات العامة والنقل",
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_031.jpg"
+  },
+  {
+    "id": "mp_032",
+    "fullName": "جمال عيسى جريس قموه",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "السلط",
+    "email": "Jamal.Gammoh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة السياحة والآثار"
+        ]
+      }
+    ],
+    "officePhone": "5635200",
+    "photoUrl": "/images/mps/mp_032.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_033",
+    "fullName": "جميل أحمد محمد الدهيسات",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Jamil.dhesat@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_033.jpg"
+  },
+  {
+    "id": "mp_034",
+    "fullName": "جهاد زهير سالم المدانات",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "jihad.almdanat@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الخدمات العامة والنقل",
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الخدمات العامة والنقل",
+          "لجنة السياحة والآثار"
+        ]
+      }
+    ],
+    "officePhone": "9571026663",
+    "photoUrl": "/images/mps/mp_034.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_035",
+    "fullName": "جهاد عبد المجيد خميس عبوي",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "jihad.abawi@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      }
+    ],
+    "officePhone": "9621013524",
+    "photoUrl": "/images/mps/mp_035.jpg"
+  },
+  {
+    "id": "mp_036",
+    "fullName": "حابس ركاد خليف الشبيب",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "بدو الشمال",
+    "email": "Habis.Alshabeeb@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة الريف والبادية"
+        ]
+      }
+    ],
+    "officePhone": "5635209",
+    "photoUrl": "/images/mps/mp_036.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_037",
+    "fullName": "حابس سامي مثقال الفايز",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "بدو الوسط",
+    "email": "Habes.ElFayez@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "اللجنة الإدارية"
+        ]
+      }
+    ],
+    "officePhone": "5635200",
+    "photoUrl": "/images/mps/mp_037.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_038",
+    "fullName": "حامد خليل رشيد الرحامنة",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "hamid.alrahamneh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "لجنة الريف والبادية"
+        ]
+      }
+    ],
+    "officePhone": "065625200",
+    "photoUrl": "/images/mps/mp_038.jpg"
+  },
+  {
+    "id": "mp_039",
+    "fullName": "حسن صلاح صالح الرياطي",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "العقبة",
+    "email": "Hasan.Alriyati@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الخدمات العامة والنقل"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة السياحة والآثار"
+        ]
+      }
+    ],
+    "officePhone": "5635206",
+    "photoUrl": "/images/mps/mp_039.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_040",
+    "fullName": "حسين خالد حسين الطراونة",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "الكرك",
+    "email": "hussein.altarawneh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الصحة والغذاء",
+          "لجنة البيئة والمناخ"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة الصحة والغذاء"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_040.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_041",
+    "fullName": "حسين سعود عوض مرعي كريشان",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "معان",
+    "email": "Hussein.Kreishan@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الخدمات العامة والنقل",
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "لجنة البيئة والمناخ"
+        ]
+      }
+    ],
+    "officePhone": "068635200",
+    "photoUrl": "/images/mps/mp_041.jpg"
+  },
+  {
+    "id": "mp_042",
+    "fullName": "حسين علي محمود العموش",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "hussein.omosh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة التوجيه الوطني والإعلام",
+          "لجنة الزراعة والمياه"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_042.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_043",
+    "fullName": "حكم منصور ظاهر المعادات",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "السلط",
+    "email": "hakam.maadat@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الصحة والغذاء",
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة الصحة والغذاء"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_043.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_044",
+    "fullName": "حمزة محمد محمود الحوامدة",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "جرش",
+    "email": "hamzeh.alhawamdeh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "لجنة البيئة والمناخ"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_044.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_045",
+    "fullName": "حمود إبراهيم أحمد الزواهرة",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "hmoud.AlZawahreh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الزراعة والمياه",
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة السياحة والآثار"
+        ]
+      }
+    ],
+    "officePhone": "06-5635200",
+    "photoUrl": "/images/mps/mp_045.jpg"
+  },
+  {
+    "id": "mp_046",
+    "fullName": "حياه حسين علي مسيمي",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Hayat.Musimi@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الصحة والغذاء"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة المرأة وشؤون الأسرة",
+          "لجنة الصحة والغذاء"
+        ]
+      }
+    ],
+    "officePhone": "5635200",
+    "photoUrl": "/images/mps/mp_046.jpg"
+  },
+  {
+    "id": "mp_047",
+    "fullName": "خالد علي محمد المسامره العقيلات",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "khalid.masamreh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الخدمات العامة والنقل",
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية",
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_047.jpg"
+  },
+  {
+    "id": "mp_048",
+    "fullName": "خالد موسى عيسى أبو حسان",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "KHALED.ABUHASSAN@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار"
+        ]
+      }
+    ],
+    "officePhone": "5635135",
+    "photoUrl": "/images/mps/mp_048.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_049",
+    "fullName": "خضر هليل مطير بني خالد",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "khader.banikhalid@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_049.jpg"
+  },
+  {
+    "id": "mp_050",
+    "fullName": "خليفة سليمان محمد الديات",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "السلط",
+    "email": "khalifa.aldyyat@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الشؤون الخارجية",
+          "اللجنة الإدارية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة الريف والبادية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_050.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_051",
+    "fullName": "خميس حسين خليل عطيه",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "khamis.Atieh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "officePhone": "5635200",
+    "photoUrl": "/images/mps/mp_051.jpg"
+  },
+  {
+    "id": "mp_052",
+    "fullName": "ديمه محمد طارق عبد الرحيم طهبوب",
+    "aliases": [
+      "ديمة طهبوب",
+      "ديما طهبوب",
+      "ديمه طهبوب"
+    ],
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Dima.TAHBOUB@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الشؤون الخارجية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشؤون الخارجية"
+        ]
+      }
+    ],
+    "officePhone": "5635200",
+    "photoUrl": "/images/mps/mp_052.jpg",
+    "district": ""
+  },
+  {
+    "id": "mp_053",
+    "fullName": "دينا عوني محمد البشير",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Dina.Albashir@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "اللجنة القانونية",
+          "لجنة الشؤون الخارجية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "لجنة الشؤون الخارجية"
+        ]
+      }
+    ],
+    "officePhone": "5635219",
+    "photoUrl": "/images/mps/mp_053.jpg"
+  },
+  {
+    "id": "mp_054",
+    "fullName": "راكين خلف محمد أبو هنية",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Rakeen.AbuHania@representatives.j",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشؤون الخارجية"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_054.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_055",
+    "fullName": "رانيا منصور عواد أبو رمان",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "السلط",
+    "email": "Rania.aburumman@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "اللجنة المالية",
+          "اللجنة القانونية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية",
+          "اللجنة المالية"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_055.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_056",
+    "fullName": "رانية محمد حسن الخليفات",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "معان",
+    "email": "Rania.Alkhlaifat@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشباب والرياضة والثقافة",
+          "لجنة السياحة والآثار"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_056.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_057",
+    "fullName": "رائد طاهر حمدان القطامين",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "raed.alqatameen@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_057.jpg"
+  },
+  {
+    "id": "mp_058",
+    "fullName": "رائد مصباح طلب رباع",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "Raid.Rabaa@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الصحة والغذاء",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      }
+    ],
+    "officePhone": "5635176",
+    "photoUrl": "/images/mps/mp_058.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_059",
+    "fullName": "رند جهاد فؤاد الخزوز",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "rand.alkhzooz@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "اللجنة المالية",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة المالية",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_059.jpg"
+  },
+  {
+    "id": "mp_060",
+    "fullName": "زهير محمد زهير الخشمان",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "zuhair.alkhushman@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة البيئة والمناخ"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_060.jpg"
+  },
+  {
+    "id": "mp_061",
+    "fullName": "سالم حسني سالم العمري",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "Salem.Alomari@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة السياحة والآثار",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      }
+    ],
+    "officePhone": "5635139",
+    "photoUrl": "/images/mps/mp_061.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_062",
+    "fullName": "سالم علي محمود أبو دولة",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "salem.abudouleh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_062.jpg"
+  },
+  {
+    "id": "mp_063",
+    "fullName": "سامر نوفان فضيل العبابسه",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "مادبا",
+    "email": "samer.alababseh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_063.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_064",
+    "fullName": "سليمان حمدان سالم الخرابشة",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "السلط",
+    "email": "sulieman.alkharabsheh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "اللجنة المالية",
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "اللجنة المالية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_064.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_065",
+    "fullName": "سليمان حويلة عيد الزبن",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Suleiman.AlZaben@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان",
+          "لجنة التربية والتعليم"
+        ]
+      }
+    ],
+    "officePhone": "563522",
+    "photoUrl": "/images/mps/mp_065.jpg",
+    "district": ""
+  },
+  {
+    "id": "mp_066",
+    "fullName": "سليمان عبد العزيز سليمان السعود",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة البيئة والمناخ",
+          "لجنة فلسطين"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الخدمات العامة والنقل",
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_066.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_067",
+    "fullName": "شاهر سعد صالح الشطناوي",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الصحة والغذاء",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الصحة والغذاء"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_067.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_068",
+    "fullName": "شفاء عيسى محمد صوان",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "جرش",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة الزراعة والمياه"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_068.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_069",
+    "fullName": "صالح ساري محمد أبو تايه",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "بدو الجنوب",
+    "email": "Saleh.Abutayeh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الريف والبادية"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_069.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_070",
+    "fullName": "صالح عبدالكريم شحاده العرموطي",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Saleh.Armouti@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "officePhone": "5635200",
+    "photoUrl": "/images/mps/mp_070.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_071",
+    "fullName": "طارق عبد المهدي عبدالله بني هاني",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_071.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_072",
+    "fullName": "طلال محمد عبدالوالي النسور",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "البلقاء",
+    "email": "Talal.Alnsour@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة فلسطين"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      }
+    ],
+    "officePhone": "5635148",
+    "photoUrl": "/images/mps/mp_072.jpg"
+  },
+  {
+    "id": "mp_073",
+    "fullName": "عارف منور عبدالرحمن السعايده العبادي",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Aref.Alsaaideh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة فلسطين",
+          "اللجنة القانونية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية"
+        ]
+      }
+    ],
+    "officePhone": "5635156",
+    "photoUrl": "/images/mps/mp_073.jpg"
+  },
+  {
+    "id": "mp_074",
+    "fullName": "عبدالباسط عبدالله سعيد الكباريتي",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "العقبة",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الاقتصاد والاستثمار",
+          "اللجنة الإدارية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_074.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_075",
+    "fullName": "عبدالحليم محمد عبدالحليم عنانبه",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "عجلون",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الشباب والرياضة والثقافة",
+          "اللجنة القانونية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_075.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_076",
+    "fullName": "عبدالرحمن حسين محمد العوايشه",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "AbdulRahman.AlAwaycheh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      }
+    ],
+    "officePhone": "5635165",
+    "photoUrl": "/images/mps/mp_076.jpg"
+  },
+  {
+    "id": "mp_077",
+    "fullName": "عبدالرؤوف عبدالقادر سليمان الربيحات",
+    "party": "مستقل",
+    "parliamentaryBloc": "النواب المستقلون",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "النواب المستقلون",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الشباب والرياضة والثقافة",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_077.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_078",
+    "fullName": "عبد الناصر هاشم محمود الخصاونة",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الشباب والرياضة والثقافة",
+          "لجنة الصحة والغذاء"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_078.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_079",
+    "fullName": "عبدالهادي سليمان ثاني البريزات",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "مادبا",
+    "email": "abdelhadi.albreizat@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الصحة والغذاء",
+          "لجنة البيئة والمناخ"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة الصحة والغذاء"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_079.jpg"
+  },
+  {
+    "id": "mp_080",
+    "fullName": "عثمان عبدالله سليمان المخادمة",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة فلسطين",
+          "لجنة الشؤون الخارجية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة الصحة والغذاء"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_080.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_081",
+    "fullName": "عدنان يلدار الخاص مشوقه",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "Adnan.Mashoka@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "لجنة البيئة والمناخ"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      }
+    ],
+    "officePhone": "5635123",
+    "photoUrl": "/images/mps/mp_081.jpg"
+  },
+  {
+    "id": "mp_082",
+    "fullName": "عطالله علي قاضي الحنيطي",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشباب والرياضة والثقافة",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_082.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_083",
+    "fullName": "علي سالم فاضل الخلايله",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "Ali.Alkhalaileh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الرد على خطاب العرش"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "officePhone": "5635181",
+    "photoUrl": "/images/mps/mp_083.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_084",
+    "fullName": "علي سليمان محمد الغزاوي",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Ali.Alghzawi@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الخدمات العامة والنقل",
+          "لجنة الشؤون الخارجية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة الزراعة والمياه"
+        ]
+      }
+    ],
+    "officePhone": "5635146",
+    "photoUrl": "/images/mps/mp_084.jpg"
+  },
+  {
+    "id": "mp_085",
+    "fullName": "علي محمود محمد الخزعلي",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الريف والبادية"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_085.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_086",
+    "fullName": "عمر عواد فليح بني خالد",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "بدو الشمال",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة البيئة والمناخ"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة الصحة والغذاء"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_086.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_087",
+    "fullName": "عوني علي طلال الزعبي",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "اللجنة المالية",
+          "اللجنة القانونية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية",
+          "اللجنة المالية"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_087.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_088",
+    "fullName": "عيسى مخائيل سلامة نصار",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "مادبا",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة التربية والتعليم"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_088.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_089",
+    "fullName": "فتحي يوسف سلمان البوات",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة البيئة والمناخ"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة الزراعة والمياه"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_089.jpg"
+  },
+  {
+    "id": "mp_090",
+    "fullName": "فراس محمد خليف القبلان",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "INFO@REPRESENTATIVES.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة التوجيه الوطني والإعلام",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      }
+    ],
+    "officePhone": "5635100",
+    "photoUrl": "/images/mps/mp_090.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_091",
+    "fullName": "فريال يوسف أحمد بني سلمان",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "عجلون",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة السياحة والآثار"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_091.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_092",
+    "fullName": "فليحه سلامه مقبول السبيتان",
+    "aliases": [
+      "فليح الخضير",
+      "فريحة الخضير",
+      "فليحة الخضير"
+    ],
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "بدو الوسط",
+    "email": "Faleeha.Alsbeatan@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة المرأة وشؤون الأسرة",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      }
+    ],
+    "officePhone": "لا يوجد",
+    "photoUrl": "/images/mps/mp_092.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_093",
+    "fullName": "قاسم عبدالله محمد القباعي",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة الزراعة والمياه"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_093.jpg"
+  },
+  {
+    "id": "mp_094",
+    "fullName": "لبنى محمد بكر النمور",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "العقبة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_094.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_095",
+    "fullName": "مازن تركي سعود القاضي",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "mazen.elqad@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "officePhone": "5635200",
+    "photoUrl": "/images/mps/mp_095.jpg"
+  },
+  {
+    "id": "mp_096",
+    "fullName": "مالك عبدالله علي الطهراوي",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_096.jpg"
+  },
+  {
+    "id": "mp_097",
+    "fullName": "مجحم حمد حسين الصقور",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "mujhem.alsqour@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "officePhone": "5635144",
+    "photoUrl": "/images/mps/mp_097.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_098",
+    "fullName": "محمد أحمد خليف المرايات",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "الكرك",
+    "email": "Mohammad.Alemrayat@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الزراعة والمياه"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "officePhone": "5635188",
+    "photoUrl": "/images/mps/mp_098.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_099",
+    "fullName": "محمد أحمد عبدالدايم المحاميد",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "معان",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الخدمات العامة والنقل",
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_099.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_100",
+    "fullName": "محمد أحمد علي الجراح",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الشؤون الخارجية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_100.jpg"
+  },
+  {
+    "id": "mp_101",
+    "fullName": "محمد جميل محمد الظهراوي",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "Mohammad.Althahrawy@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "officePhone": "5635174",
+    "photoUrl": "/images/mps/mp_101.jpg"
+  },
+  {
+    "id": "mp_102",
+    "fullName": "محمد خليل محمد عقل",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشؤون الخارجية"
+        ]
+      }
+    ],
+    "officePhone": "065635100",
+    "photoUrl": "/images/mps/mp_102.jpg"
+  },
+  {
+    "id": "mp_103",
+    "fullName": "محمد زكي محمد بني ملحم",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "اللجنة القانونية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية",
+          "اللجنة المالية"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_103.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_104",
+    "fullName": "محمد سلامة عبدالله السبايلة",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "الطفيلة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الشؤون الخارجية",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الحريات العامة وحقوق الإنسان",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_104.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_105",
+    "fullName": "محمد سلامة عطالله الغويري",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "اللجنة الإدارية",
+          "اللجنة القانونية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة الحريات العامة وحقوق الإنسان"
+        ]
+      }
+    ],
+    "officePhone": "065635200",
+    "photoUrl": "/images/mps/mp_105.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_106",
+    "fullName": "محمد عبدالرزاق عيد الرعود",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "الطفيلة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة التربية والتعليم",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_106.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_107",
+    "fullName": "محمد عبد الفتاح محمود هديب",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "جرش",
+    "email": "Mohammad.hedaib@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشباب والرياضة والثقافة",
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_107.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_108",
+    "fullName": "محمد عبدالله علي البستنجي",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "الكرك",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "اللجنة المالية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "اللجنة المالية"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_108.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_109",
+    "fullName": "محمد فخري شكري كتاو",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة المالية"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_109.jpg"
+  },
+  {
+    "id": "mp_110",
+    "fullName": "محمد قاسم سليمان المراعية",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "بدو الجنوب",
+    "email": "mohammad.marayeh@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة الزراعة والمياه",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "photoUrl": "/images/mps/mp_110.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_111",
+    "fullName": "محمد يحيا محمد المحارمه",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Mohammad.Almaharmeh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة البيئة والمناخ",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_111.jpg",
+    "district": "الدائرة الأولى"
+  },
+  {
+    "id": "mp_112",
+    "fullName": "محمود خلف حمد النعيمات",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "النواب المستقلون",
+    "winType": "local",
+    "governorate": "الكرك",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "النواب المستقلون",
+        "committees": [
+          "لجنة الرد على خطاب العرش"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "officePhone": "065635100",
+    "photoUrl": "/images/mps/mp_112.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_113",
+    "fullName": "مصطفى صالح مصطفى العماوي",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "mustafa.amawi@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية",
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_113.jpg"
+  },
+  {
+    "id": "mp_114",
+    "fullName": "مصطفى فؤاد محمد الخصاونة",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Mustafa.ALKhasawneh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الشباب والرياضة والثقافة",
+          "لجنة فلسطين"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "photoUrl": "/images/mps/mp_114.jpg"
+  },
+  {
+    "id": "mp_115",
+    "fullName": "معتز علي سالم الهروط",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_115.jpg"
+  },
+  {
+    "id": "mp_116",
+    "fullName": "معتز محمد موسى أبو رمان",
+    "party": "حزب اتحاد الأحزاب الوسطية",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Mutaz.AbuRuman@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة الريف والبادية"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_116.jpg"
+  },
+  {
+    "id": "mp_117",
+    "fullName": "موسى علي محمد الوحش",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Mousa.AlWahsh@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "اللجنة المالية",
+          "لجنة الاقتصاد والاستثمار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة المالية",
+          "لجنة الريف والبادية"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_117.jpg"
+  },
+  {
+    "id": "mp_118",
+    "fullName": "مؤيد فضيل محمد العلاونة",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "اربد",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الشباب والرياضة والثقافة",
+          "لجنة الاقتصاد الرقمي والريادة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد الرقمي والريادة",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_118.jpg",
+    "district": "الدائرة الثانية"
+  },
+  {
+    "id": "mp_119",
+    "fullName": "مي محمد علي السردية",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "بدو الشمال",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة السياحة والآثار",
+          "لجنة الريف والبادية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشؤون الخارجية",
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_119.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_120",
+    "fullName": "مي محمود علي حراحشة",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "المفرق",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية",
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة المرأة وشؤون الأسرة",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_120.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_121",
+    "fullName": "ميسون صبحي محمد القوابعة",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "الطفيلة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الصحة والغذاء",
+          "لجنة المرأة وشؤون الأسرة"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_121.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_122",
+    "fullName": "ناصر سلامه عقلة نواصره",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "اللجنة المالية",
+          "اللجنة القانونية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة القانونية",
+          "اللجنة المالية"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_122.jpg"
+  },
+  {
+    "id": "mp_123",
+    "fullName": "نبيل كامل أحمد الشيشاني",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "Nabil.AlShishani@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الخدمات العامة والنقل",
+          "لجنة الريف والبادية"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_123.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_124",
+    "fullName": "نجمه شفيق خايف الهواوشه",
+    "party": "حزب تقدم",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "مادبا",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "اللجنة المالية",
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة تقدم النيابية",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة السياحة والآثار",
+          "لجنة التربية والتعليم"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_124.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_125",
+    "fullName": "نسيم عارف ابراهيم العبادي",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة حزب مبادرة النيابية",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب مبادرة النيابية",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_125.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_126",
+    "fullName": "نصار حسن سالم القيسي",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الرد على خطاب العرش"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "photoUrl": "/images/mps/mp_126.jpg",
+    "district": "الدائرة الثالثة"
+  },
+  {
+    "id": "mp_127",
+    "fullName": "نمر عبدالحميد عبدالله الفقهاء العبادي",
+    "aliases": [
+      "نمر العبادي",
+      "نمر عبد الحميد السليحات"
+    ],
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "Nassar.alqaisi@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+        "committees": [
+          "اللجنة المالية",
+          "لجنة التربية والتعليم"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة المالية"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_127.jpg"
+  },
+  {
+    "id": "mp_128",
+    "fullName": "نور حسني أحمد أبوغوش",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Nemer.Alslehat@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الشباب والرياضة والثقافة",
+          "لجنة التوجيه الوطني والإعلام"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة التوجيه الوطني والإعلام",
+          "لجنة الشباب والرياضة والثقافة"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_128.jpg"
+  },
+  {
+    "id": "mp_129",
+    "fullName": "هاله يوسف محمود الجراح",
+    "party": "حزب إرادة",
+    "parliamentaryBloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة اتحاد الأحزاب الوسطية والوطني الإسلامي"
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب إرادة والوطني الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة المرأة وشؤون الأسرة",
+          "لجنة التربية والتعليم"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_129.jpg"
+  },
+  {
+    "id": "mp_130",
+    "fullName": "هايل فريح جريس عياش",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة الصحة والغذاء"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الصحة والغذاء"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_130.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_131",
+    "fullName": "هدى ابراهيم نصار نفاع",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Hayel.Ayash@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الشؤون الخارجية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18"
+      }
+    ],
+    "photoUrl": "/images/mps/mp_131.jpg"
+  },
+  {
+    "id": "mp_132",
+    "fullName": "هدى حسين محمد عتوم",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة التربية والتعليم",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة الزراعة والمياه"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_132.jpg",
+    "district": ""
+  },
+  {
+    "id": "mp_133",
+    "fullName": "هيثم جريس عوده الزيادين",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "الكرك",
+    "email": "Huda.Etoom@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة المرأة وشؤون الأسرة",
+          "لجنة الشؤون الخارجية"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الطاقة والثروة المعدنية"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_133.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_134",
+    "fullName": "وسام محمد عبدالغني الربيحات",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "national",
+    "governorate": "القائمة العامة",
+    "email": "Haitham.Alziadin@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة الرد على خطاب العرش",
+          "اللجنة الإدارية",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "اللجنة الإدارية",
+          "لجنة العمل والتنمية الاجتماعية والسكان"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_134.jpg"
+  },
+  {
+    "id": "mp_135",
+    "fullName": "وصفي هلال عبدالله حداد",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "عجلون",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الشؤون الخارجية",
+          "لجنة السياحة والآثار"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_135.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_136",
+    "fullName": "وليد حامد صالح المصري",
+    "party": "حزب عزم",
+    "parliamentaryBloc": "كتلة حزب عزم",
+    "winType": "local",
+    "governorate": "الزرقاء",
+    "email": "Wasfi.Haddad@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب عزم",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة فلسطين"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب عزم",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة الاقتصاد والاستثمار",
+          "لجنة الخدمات العامة والنقل"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_136.jpg",
+    "district": "دائرة انتخابية واحدة"
+  },
+  {
+    "id": "mp_137",
+    "fullName": "ينال عبدالسلام نورالدين الفريحات",
+    "party": "حزب جبهة العمل الإسلامي",
+    "parliamentaryBloc": "كتلة جبهة العمل الإسلامي",
+    "winType": "local",
+    "governorate": "عمان",
+    "email": "info@representatives.jo",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة جبهة العمل الإسلامي",
+        "committees": [
+          "لجنة فلسطين"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب جبهة العمل الإسلامي",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة فلسطين"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_137.jpg"
+  },
+  {
+    "id": "mp_138",
+    "fullName": "يوسف محمد هارون الرواضية",
+    "party": "حزب الميثاق الوطني",
+    "parliamentaryBloc": "كتلة حزب الميثاق الوطني",
+    "winType": "local",
+    "governorate": "معان",
+    "email": "Yanal.Frihat@Representatives.JO",
+    "memberships": [
+      {
+        "session": "ordinary_2",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "committees": [
+          "لجنة العمل والتنمية الاجتماعية والسكان",
+          "لجنة السياحة والآثار"
+        ]
+      },
+      {
+        "session": "ordinary_1",
+        "bloc": "كتلة حزب الميثاق الوطني",
+        "startDate": "2024-11-18",
+        "committees": [
+          "لجنة السياحة والآثار"
+        ]
+      }
+    ],
+    "photoUrl": "/images/mps/mp_138.jpg",
+    "district": "دائرة انتخابية واحدة"
+  }
+]

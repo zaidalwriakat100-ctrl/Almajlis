@@ -1,0 +1,110 @@
+[
+  {
+    "id": "party_iaf",
+    "name": "حزب جبهة العمل الإسلامي",
+    "totalSeats": 31,
+    "nationalListSeats": 17,
+    "localSeats": 14,
+    "color": "#007A3D",
+    "description": "أكبر الأحزاب تمثيلاً في المجلس العشرين بإجمالي 31 مقعداً."
+  },
+  {
+    "id": "party_charter",
+    "name": "حزب الميثاق الوطني",
+    "totalSeats": 21,
+    "nationalListSeats": 4,
+    "localSeats": 17,
+    "color": "#1e3a8a",
+    "description": "حزب سياسي أردني بإجمالي 21 مقعداً."
+  },
+  {
+    "id": "party_erada",
+    "name": "حزب إرادة",
+    "totalSeats": 19,
+    "nationalListSeats": 3,
+    "localSeats": 16,
+    "color": "#0891b2",
+    "description": "حزب سياسي أردني بإجمالي 19 مقعداً."
+  },
+  {
+    "id": "party_taqadom",
+    "name": "حزب تقدم",
+    "totalSeats": 8,
+    "nationalListSeats": 3,
+    "localSeats": 5,
+    "color": "#d97706",
+    "description": "حزب سياسي أردني بإجمالي 8 مقاعد."
+  },
+  {
+    "id": "party_national_islamic",
+    "name": "الحزب الوطني الإسلامي",
+    "totalSeats": 7,
+    "nationalListSeats": 3,
+    "localSeats": 4,
+    "color": "#15803d",
+    "description": "حزب سياسي أردني بإجمالي 7 مقاعد."
+  },
+  {
+    "id": "party_national_union",
+    "name": "تيار الاتحاد الوطني",
+    "totalSeats": 5,
+    "nationalListSeats": 3,
+    "localSeats": 2,
+    "color": "#7c2d12",
+    "description": "تيار سياسي أردني بإجمالي 5 مقاعد."
+  },
+  {
+    "id": "party_blessed_land",
+    "name": "حزب الأرض المباركة",
+    "totalSeats": 2,
+    "nationalListSeats": 2,
+    "localSeats": 0,
+    "color": "#92400e",
+    "description": "حزب سياسي أردني بإجمالي مقعدان."
+  },
+  {
+    "id": "party_labor",
+    "name": "حزب العمال",
+    "totalSeats": 2,
+    "nationalListSeats": 2,
+    "localSeats": 0,
+    "color": "#dc2626",
+    "description": "حزب سياسي أردني بإجمالي مقعدان."
+  },
+  {
+    "id": "party_namaa",
+    "name": "حزب نماء",
+    "totalSeats": 1,
+    "nationalListSeats": 1,
+    "localSeats": 0,
+    "color": "#059669",
+    "description": "حزب سياسي أردني بمقعد واحد."
+  },
+  {
+    "id": "party_civil_democratic",
+    "name": "الحزب المدني الديمقراطي",
+    "totalSeats": 1,
+    "nationalListSeats": 0,
+    "localSeats": 1,
+    "color": "#4f46e5",
+    "description": "حزب سياسي أردني بمقعد واحد."
+  },
+  {
+    "id": "party_work",
+    "name": "حزب العمل",
+    "totalSeats": 1,
+    "nationalListSeats": 1,
+    "localSeats": 0,
+    "color": "#ea580c",
+    "description": "حزب سياسي أردني بمقعد واحد."
+  },
+  {
+    "id": "party_youth",
+    "name": "حزب الشباب",
+    "totalSeats": 1,
+    "nationalListSeats": 0,
+    "localSeats": 1,
+    "color": "#0284c7",
+    "description": "حزب سياسي أردني بمقعد واحد."
+  }
+]

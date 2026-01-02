@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+  <script src="/debug.js"></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>المجلس البرلماني الأردني</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Inter:wght@100..900&display=swap"
+    rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Cairo', 'Inter', 'system-ui', 'sans-serif'],
+            serif: ['Times New Roman', 'serif'],
+          },
+          colors: {
+            parliament: {
+              wall: '#F2F0EA',       // Royal Marble Background
+              wallWarm: '#E3DED1',   // Deep Marble
+              wood: '#B18154',       // Rich Oak Wood
+              woodDark: '#8B633F',   // Aged Wood
+              greenMain: '#2D463E',  // Deep Parliamentary Green
+              greenSoft: '#5B7A70',  // Sage/Soft Green
+              greenDark: '#1A2E28',  // Emerald Shadow
+              marble: '#1A1D1E',     // Deep Onyx/Text
+              text: '#1A1D1E',       // Main Text
+              textMuted: '#6B6862',  // Sophisticated Muted Text
+              accent: '#D4AF37',     // Muted Gold Accent
+            },
+            jordan: {
+              red: '#CE1126',
+              black: '#000000',
+              green: '#007A3D',
+            }
+          },
+          backgroundImage: {
+            'curtain-gradient': 'linear-gradient(135deg, #1A2E28 0%, #2D463E 50%, #1A2E28 100%)',
+            'wood-gradient': 'linear-gradient(180deg, #B18154 0%, #8B633F 100%)',
+            'stone-gradient': 'linear-gradient(to bottom right, #FDFCF9, #F2F0EA)',
+            'marble-green': 'linear-gradient(135deg, #1A2E28 0%, #2D463E 100%)',
+          },
+          animation: {
+            'fade-in': 'fadeIn 0.6s ease-out',
+            'pulse-slow': 'pulseSlow 4s ease-in-out infinite',
+          },
+          keyframes: {
+            fadeIn: {
+              '0%': { opacity: '0', transform: 'translateY(10px)' },
+              '100%': { opacity: '1', transform: 'translateY(0)' },
+            },
+            pulseSlow: {
+              '0%, 100%': { opacity: '0.9', transform: 'scale(1)' },
+              '50%': { opacity: '1', transform: 'scale(1.02)' },
+            }
+          }
+        },
+      },
+    }
+  </script>
+  <style>
+    body {
+      font-family: 'Cairo', 'Inter', sans-serif;
+      background-color: #F8F7F2;
+      color: #1A1D1E;
+      background-image:
+        radial-gradient(#B18154 0.4px, transparent 0.4px),
+        radial-gradient(#B18154 0.4px, #F8F7F2 0.4px);
+      background-size: 32px 32px;
+      background-position: 0 0, 16px 16px;
+      background-attachment: fixed;
+    }
+
+    .parliament-card {
+      background-color: #FFFFFF;
+      border: 1px solid rgba(177, 129, 84, 0.2);
+      border-top: 5px solid #B18154;
+      border-radius: 16px;
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+      position: relative;
+      overflow: hidden;
+      transition: all 0.3s ease;
+    }
+
+    .parliament-card:hover {
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.08);
+      border-color: rgba(177, 129, 84, 0.4);
+    }
+
+    .pattern-mashrabiyya {
+      background-color: transparent;
+      background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23B18154' fill-opacity='0.08' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
+    }
+
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: #F2F0EA;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #2D463E;
+      border-radius: 10px;
+      border: 3px solid #F2F0EA;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #1A2E28;
+    }
+  </style>
+
+  <link rel="stylesheet" href="/index.css">
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+
+</html>
